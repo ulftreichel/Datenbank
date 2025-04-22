@@ -1,0 +1,1 @@
+sqlplus /NOLOG @start.sql

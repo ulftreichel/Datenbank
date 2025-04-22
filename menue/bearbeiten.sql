@@ -1,0 +1,1 @@
+@&pfad\bearbeiten\menue.sql
